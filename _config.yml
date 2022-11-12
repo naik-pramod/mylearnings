@@ -1,6 +1,35 @@
 show_downloads: true
 google_analytics:
 remote_theme: pmarsceill/just-the-docs
+title: My Documents
+description: "A documentation of my learnings.."
+permalink: pretty
+search_enabled: true
+back_to_top: true
+back_to_top_text: "Back to top"
+last_edit_timestamp: true
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/naik-pramod/blogs" # the github URL for your repo
+gh_edit_branch: "draft" # the branch that your docs is served from
+
 jekyll_admin:
   hidden_links:
     - posts
@@ -10,3 +39,8 @@ jekyll_admin:
     - configuration
 plugins:
   - jekyll-default-layout
+  - jekyll-seo-tag
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
