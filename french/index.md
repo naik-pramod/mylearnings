@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DevOps 
+title: French 
 nav_order: 4
 has_children: true
 ---
