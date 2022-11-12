@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DevOps Learnings
-nav_order: 2
+title: DevOps 
+nav_order: 3
 has_children: true
 ---
