@@ -1,6 +1,6 @@
 show_downloads: true
 google_analytics:
-theme: just-the-docs
+theme: jekyll-just-the-docs
 jekyll_admin:
   hidden_links:
     - posts
@@ -8,3 +8,5 @@ jekyll_admin:
     - staticfiles
     - datafiles
     - configuration
+plugins:
+  - jekyll-default-layout
