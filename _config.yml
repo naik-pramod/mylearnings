@@ -4,6 +4,7 @@ remote_theme: pmarsceill/just-the-docs
 title: My Documents
 description: "A documentation of my learnings.."
 permalink: pretty
+heading_anchors: true
 search_enabled: true
 back_to_top: true
 back_to_top_text: "Back to top"
