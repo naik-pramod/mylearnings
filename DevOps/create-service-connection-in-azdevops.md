@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Service Connection in ADO
-parent: DevOps
+parent: DevOps Learnings
 nav_order: 2
 ---
 
