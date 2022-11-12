@@ -1,3 +1,10 @@
+---
+layout: default
+title: Service Connection in ADO
+parent: DevOps
+nav_order: 2
+---
+
 This post explains how to create a Azure DevOps service connection to Power Platform environment.
 
 Pre-requites:
