@@ -1,6 +1,6 @@
 show_downloads: true
 google_analytics:
-theme: jekyll-just-the-docs
+remote_theme: pmarsceill/just-the-docs
 jekyll_admin:
   hidden_links:
     - posts
