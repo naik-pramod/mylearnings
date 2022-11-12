@@ -4,6 +4,10 @@ remote_theme: pmarsceill/just-the-docs
 title: My Documents
 description: "A documentation of my learnings.."
 permalink: pretty
+nav_external_links:
+  - title: Just the Docs on GitHub
+    url: https://github.com/just-the-docs/just-the-docs
+    hide_icon: false # set to true to hide the external link icon - defaults to false
 heading_anchors: true
 search_enabled: true
 back_to_top: true
