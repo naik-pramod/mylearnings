@@ -2,7 +2,7 @@ show_downloads: true
 google_analytics:
 remote_theme: pmarsceill/just-the-docs
 title: Pramod Naik
-description: "A documentation of my learnings.."
+description: "My learnings notes.."
 permalink: pretty
 nav_external_links:
   - title: Just the Docs on GitHub
