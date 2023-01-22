@@ -1,8 +1,8 @@
 show_downloads: true
 google_analytics:
 remote_theme: pmarsceill/just-the-docs
-title: My Documents
-description: "A documentation of my learnings.."
+title: Pramod Naik
+description: "My learnings notes.."
 permalink: pretty
 heading_anchors: true
 search_enabled: true
